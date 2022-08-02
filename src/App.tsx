@@ -1,4 +1,4 @@
-import { TableBody } from "@mui/material";
+import { Dialog, TableBody } from "@mui/material";
 import { useState } from "react";
 import data from "./data.json";
 
@@ -22,13 +22,20 @@ export const monthsList = [
 interface MSGProps {}
 
 const MSG = (props: MSGProps) => {
-  const [idShow, idSetShow] = useState(0);
+  const [idShowModal, setIdShowModal] = useState<number | undefined>(undefined);
+  const [modal, setModal] = useState(false);
   const {} = props;
 
-  function check(id?: number) {
-    return id;
+  function check(num?: number) {
+    setIdShowModal(num);
+    if (idShowModal) {
+      if (num !== idShowModal) {
+        return setModal(true);
+      }
+    }
+    return console.log(num);
   }
-  console.log(check());
+
   return (
     <div
       style={{
@@ -37,6 +44,22 @@ const MSG = (props: MSGProps) => {
         marginTop: 16,
         borderRadius: "4px 4px 0 0 ",
       }}>
+      <Dialog open={modal} onClose={() => setModal(false)}>
+        <div>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur odio
+          sequi a accusamus fugit minus at repudiandae hic, qui error incidunt
+          ea officiis dignissimos veritatis quos velit veniam fugiat suscipit
+          vero possimus dicta! Sapiente quis ea quia alias laboriosam dolor
+          nulla aliquid. Reprehenderit suscipit facilis in, ratione debitis
+          asperiores laboriosam ut beatae? Eveniet repudiandae nesciunt veniam
+          in quaerat officia placeat, aliquid fugit maxime. Dolor distinctio
+          quae quidem accusantium illo ut dolorem tenetur, eligendi sint animi
+          necessitatibus mollitia dolorum accusamus odio minus laboriosam
+          consequuntur deserunt perspiciatis et hic asperiores esse labore quod
+          error? Accusantium dignissimos, perspiciatis laboriosam placeat vero
+          incidunt doloribus!
+        </div>
+      </Dialog>
       <table>
         <thead>
           <tr>

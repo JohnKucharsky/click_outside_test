@@ -262,7 +262,10 @@ const MsgRenderComp = ({
                       <span
                         onClick={
                           r.level === 3
-                            ? () => setShowUpdateMonth(true)
+                            ? () => {
+                                setShowUpdateMonth(true);
+                                check(r.id);
+                              }
                             : undefined
                         }
                         className={r.level === 3 ? "hoverExecutorInput" : ""}
@@ -342,7 +345,7 @@ const MsgRenderComp = ({
                         onClick={
                           r.level === 3
                             ? () => {
-                                check(Number(r.code));
+                                check(r.id);
                                 setShowUpdateMonth(true);
                               }
                             : undefined
@@ -412,7 +415,10 @@ const MsgRenderComp = ({
                       <span
                         onClick={
                           r.level === 3
-                            ? () => setShowUpdateMonth(true)
+                            ? () => {
+                                setShowUpdateMonth(true);
+                                check(r.id);
+                              }
                             : undefined
                         }
                         className={r.level === 3 ? "hoverExecutorInput" : ""}
