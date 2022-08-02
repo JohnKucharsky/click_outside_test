@@ -1,0 +1,5604 @@
+{
+  "total": 24,
+  "data": [
+    {
+      "payload": {
+        "id": 22533,
+        "id_parent": null,
+        "level": 1,
+        "code": "50-L1_1",
+        "objTitle": "6822-001",
+        "objName": null,
+        "rdCode": null,
+        "rdStatus": null,
+        "rdDate": null,
+        "workGroup": null,
+        "workName": "Расчистка территории от мусора и загрязнённого грунта",
+        "contractorCompany": null,
+        "executorId": null,
+        "executorName": null,
+        "unit": null,
+        "volumeTotal": null,
+        "startDate": "01.10.2021",
+        "endDate": "31.03.2022",
+        "humanHourCost": null,
+        "machineHourCost": null,
+        "costER": null,
+        "volumeDonePlan": null,
+        "volumeDoneForecast": null,
+        "volumeDoneFact": null,
+        "humanHoursTotal": 0,
+        "humanHoursProgressTZ": null,
+        "humanHoursProgressPlan": 0,
+        "humanHoursProgressForecast": 0,
+        "humanHoursProgressFact": 0,
+        "humanHoursProgressPercent": null,
+        "machineHoursTotal": 0,
+        "costTotal": 0,
+        "costTotalProgress": null,
+        "costProgressPlan": 0,
+        "costProgressForecast": 0,
+        "costProgressFact": 0,
+        "costProgressPercent": null,
+        "costRemaining": 0,
+        "year": 2022,
+        "month": 8,
+        "dailyCharts": [
+          {
+            "day": 1,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 2,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 3,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 4,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 5,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 6,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 7,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 8,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 9,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 10,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 11,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 12,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 13,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 14,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 15,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 16,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 17,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 18,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 19,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 20,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 21,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 22,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 23,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 24,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 25,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 26,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 27,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 28,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 29,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 30,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 31,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          }
+        ]
+      },
+      "children": [
+        {
+          "payload": {
+            "id": 22534,
+            "id_parent": 22533,
+            "level": 2,
+            "code": "50-L1_1-L2_1",
+            "objTitle": "6822-001",
+            "objName": "Расчистка территории от мусора и загрязнённого грунта",
+            "rdCode": "6822-001-ГП",
+            "rdStatus": "Согласовано",
+            "rdDate": "01.07.2021",
+            "workGroup": "Расчистка территории",
+            "workName": "Расчистка территории от мусора и загрязнённого грунта",
+            "contractorCompany": "СПЭК",
+            "executorId": null,
+            "executorName": null,
+            "unit": "м3",
+            "volumeTotal": 0,
+            "startDate": "01.10.2021",
+            "endDate": "31.03.2022",
+            "humanHourCost": 1.09,
+            "machineHourCost": 1.09,
+            "costER": 455,
+            "volumeDonePlan": 0,
+            "volumeDoneForecast": 0,
+            "volumeDoneFact": 0,
+            "humanHoursTotal": 0,
+            "humanHoursProgressTZ": null,
+            "humanHoursProgressPlan": 0,
+            "humanHoursProgressForecast": 0,
+            "humanHoursProgressFact": 0,
+            "humanHoursProgressPercent": null,
+            "machineHoursTotal": 0,
+            "costTotal": 0,
+            "costTotalProgress": null,
+            "costProgressPlan": 0,
+            "costProgressForecast": 0,
+            "costProgressFact": 0,
+            "costProgressPercent": null,
+            "costRemaining": 0,
+            "year": 2022,
+            "month": 8,
+            "dailyCharts": [
+              {
+                "day": 1,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 2,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 3,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 4,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 5,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 6,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 7,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 8,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 9,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 10,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 11,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 12,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 13,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 14,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 15,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 16,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 17,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 18,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 19,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 20,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 21,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 22,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 23,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 24,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 25,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 26,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 27,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 28,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 29,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 30,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 31,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              }
+            ]
+          },
+          "children": []
+        },
+        {
+          "payload": {
+            "id": 22535,
+            "id_parent": 22533,
+            "level": 2,
+            "code": "50-L1_1-L2_1",
+            "objTitle": "6822-031",
+            "objName": "Расчистка территории от мусора и загрязнённого грунта",
+            "rdCode": "6822-031-ГП",
+            "rdStatus": "Согласовано",
+            "rdDate": "02.07.2021",
+            "workGroup": "Расчистка территории",
+            "workName": "Вывоз мусора и выемка непригодного грунта под земляное полотно жд путей",
+            "contractorCompany": "Транс-Кас",
+            "executorId": null,
+            "executorName": null,
+            "unit": "м3",
+            "volumeTotal": 0,
+            "startDate": "01.10.2021",
+            "endDate": "31.03.2022",
+            "humanHourCost": 0.52,
+            "machineHourCost": 1.09,
+            "costER": 216,
+            "volumeDonePlan": 0,
+            "volumeDoneForecast": 0,
+            "volumeDoneFact": 0,
+            "humanHoursTotal": 0,
+            "humanHoursProgressTZ": null,
+            "humanHoursProgressPlan": 0,
+            "humanHoursProgressForecast": 0,
+            "humanHoursProgressFact": 0,
+            "humanHoursProgressPercent": null,
+            "machineHoursTotal": 0,
+            "costTotal": 0,
+            "costTotalProgress": null,
+            "costProgressPlan": 0,
+            "costProgressForecast": 0,
+            "costProgressFact": 0,
+            "costProgressPercent": null,
+            "costRemaining": 0,
+            "year": 2022,
+            "month": 8,
+            "dailyCharts": [
+              {
+                "day": 1,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 2,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 3,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 4,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 5,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 6,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 7,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 8,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 9,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 10,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 11,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 12,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 13,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 14,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 15,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 16,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 17,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 18,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 19,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 20,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 21,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 22,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 23,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 24,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 25,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 26,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 27,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 28,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 29,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 30,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 31,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              }
+            ]
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "payload": {
+        "id": 22536,
+        "id_parent": null,
+        "level": 1,
+        "code": "50-L1_2",
+        "objTitle": "6822-001",
+        "objName": "Рубка деревьев и кустарника",
+        "rdCode": "6822-001-ГП",
+        "rdStatus": "Согласовано",
+        "rdDate": "03.07.2021",
+        "workGroup": "Расчистка территории",
+        "workName": "Рубка деревьев и кустарника",
+        "contractorCompany": "контрактация",
+        "executorId": null,
+        "executorName": null,
+        "unit": "шт",
+        "volumeTotal": 0,
+        "startDate": "01.10.2021",
+        "endDate": "31.03.2022",
+        "humanHourCost": 0.46,
+        "machineHourCost": 1.09,
+        "costER": 191,
+        "volumeDonePlan": 0,
+        "volumeDoneForecast": 0,
+        "volumeDoneFact": 0,
+        "humanHoursTotal": 0,
+        "humanHoursProgressTZ": null,
+        "humanHoursProgressPlan": 0,
+        "humanHoursProgressForecast": 0,
+        "humanHoursProgressFact": 0,
+        "humanHoursProgressPercent": null,
+        "machineHoursTotal": 0,
+        "costTotal": 0,
+        "costTotalProgress": null,
+        "costProgressPlan": 0,
+        "costProgressForecast": 0,
+        "costProgressFact": 0,
+        "costProgressPercent": null,
+        "costRemaining": 0,
+        "year": 2022,
+        "month": 8,
+        "dailyCharts": [
+          {
+            "day": 1,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 2,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 3,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 4,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 5,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 6,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 7,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 8,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 9,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 10,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 11,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 12,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 13,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 14,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 15,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 16,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 17,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 18,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 19,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 20,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 21,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 22,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 23,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 24,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 25,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 26,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 27,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 28,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 29,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 30,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 31,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          }
+        ]
+      },
+      "children": []
+    },
+    {
+      "payload": {
+        "id": 22537,
+        "id_parent": null,
+        "level": 1,
+        "code": "50-L1_3",
+        "objTitle": "6822-001",
+        "objName": null,
+        "rdCode": null,
+        "rdStatus": null,
+        "rdDate": null,
+        "workGroup": null,
+        "workName": "Срезка растительного слоя",
+        "contractorCompany": null,
+        "executorId": null,
+        "executorName": null,
+        "unit": null,
+        "volumeTotal": null,
+        "startDate": "01.10.2021",
+        "endDate": "31.07.2022",
+        "humanHourCost": null,
+        "machineHourCost": null,
+        "costER": null,
+        "volumeDonePlan": null,
+        "volumeDoneForecast": null,
+        "volumeDoneFact": null,
+        "humanHoursTotal": 0,
+        "humanHoursProgressTZ": null,
+        "humanHoursProgressPlan": 9347537559.05,
+        "humanHoursProgressForecast": 7651535.76,
+        "humanHoursProgressFact": 879447.19,
+        "humanHoursProgressPercent": 0.01,
+        "machineHoursTotal": 0,
+        "costTotal": 0,
+        "costTotalProgress": null,
+        "costProgressPlan": 383667874877785,
+        "costProgressForecast": 10107161336.82,
+        "costProgressFact": 36336594982.85,
+        "costProgressPercent": 0.01,
+        "costRemaining": -36336594982.85,
+        "year": 2022,
+        "month": 8,
+        "dailyCharts": [
+          {
+            "day": 1,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 2,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 3,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 4,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 5,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 6,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 7,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 8,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 9,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 10,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 11,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 12,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 13,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 14,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 15,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 16,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 17,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 18,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 19,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 20,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 21,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 22,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 23,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 24,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 25,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 26,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 27,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 28,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 29,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 30,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          },
+          {
+            "day": 31,
+            "plan": null,
+            "fact": null,
+            "forecast": null
+          }
+        ]
+      },
+      "children": [
+        {
+          "payload": {
+            "id": 22541,
+            "id_parent": 22537,
+            "level": 2,
+            "code": "50-L1_3-L2_1",
+            "objTitle": "6822-004",
+            "objName": "ОРК с 1 по 21 канавы ",
+            "rdCode": "6822-004-АР",
+            "rdStatus": "Согласовано",
+            "rdDate": "11.07.2021",
+            "workGroup": "Земляные работы",
+            "workName": "Земляные работы",
+            "contractorCompany": "контрактация",
+            "executorId": null,
+            "executorName": null,
+            "unit": "м3",
+            "volumeTotal": 0,
+            "startDate": "01.01.2022",
+            "endDate": "30.06.2022",
+            "humanHourCost": 1.19,
+            "machineHourCost": 1.09,
+            "costER": 494,
+            "volumeDonePlan": 0,
+            "volumeDoneForecast": 0,
+            "volumeDoneFact": 0,
+            "humanHoursTotal": 0,
+            "humanHoursProgressTZ": null,
+            "humanHoursProgressPlan": 0,
+            "humanHoursProgressForecast": 0,
+            "humanHoursProgressFact": 0,
+            "humanHoursProgressPercent": null,
+            "machineHoursTotal": 0,
+            "costTotal": 0,
+            "costTotalProgress": null,
+            "costProgressPlan": 0,
+            "costProgressForecast": 0,
+            "costProgressFact": 0,
+            "costProgressPercent": null,
+            "costRemaining": 0,
+            "year": 2022,
+            "month": 8,
+            "dailyCharts": [
+              {
+                "day": 1,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 2,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 3,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 4,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 5,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 6,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 7,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 8,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 9,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 10,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 11,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 12,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 13,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 14,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 15,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 16,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 17,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 18,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 19,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 20,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 21,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 22,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 23,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 24,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 25,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 26,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 27,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 28,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 29,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 30,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 31,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              }
+            ]
+          },
+          "children": []
+        },
+        {
+          "payload": {
+            "id": 22538,
+            "id_parent": 22537,
+            "level": 2,
+            "code": "50-L1_3-L2_1",
+            "objTitle": "6822-004",
+            "objName": "ОРК с 1 по 21 канавы ",
+            "rdCode": "6822-004-КЖ",
+            "rdStatus": "Согласовано",
+            "rdDate": "06.07.2021",
+            "workGroup": "Железобетонные конструкции",
+            "workName": "Установка колонн, ригелей, стропильных балок",
+            "contractorCompany": null,
+            "executorId": null,
+            "executorName": null,
+            "unit": null,
+            "volumeTotal": null,
+            "startDate": "01.01.2022",
+            "endDate": "28.02.2022",
+            "humanHourCost": null,
+            "machineHourCost": null,
+            "costER": null,
+            "volumeDonePlan": null,
+            "volumeDoneForecast": null,
+            "volumeDoneFact": null,
+            "humanHoursTotal": 0,
+            "humanHoursProgressTZ": null,
+            "humanHoursProgressPlan": 9129222580,
+            "humanHoursProgressForecast": 11842,
+            "humanHoursProgressFact": 13824,
+            "humanHoursProgressPercent": 0,
+            "machineHoursTotal": 0,
+            "costTotal": 0,
+            "costTotalProgress": null,
+            "costProgressPlan": 379351150478030,
+            "costProgressForecast": 492076547,
+            "costProgressFact": 574435584,
+            "costProgressPercent": 0,
+            "costRemaining": -574435584,
+            "year": 2022,
+            "month": 8,
+            "dailyCharts": [
+              {
+                "day": 1,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 2,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 3,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 4,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 5,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 6,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 7,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 8,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 9,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 10,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 11,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 12,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 13,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 14,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 15,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 16,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 17,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 18,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 19,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 20,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 21,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 22,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 23,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 24,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 25,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 26,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 27,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 28,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 29,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 30,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 31,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              }
+            ]
+          },
+          "children": [
+            {
+              "payload": {
+                "id": 22546,
+                "id_parent": 22538,
+                "level": 3,
+                "code": "50-L1_3-L2_1-L3_1",
+                "objTitle": "6822-004",
+                "objName": "ОРК с 1 по 21 канавы ",
+                "rdCode": "6822-004-КЖ",
+                "rdStatus": "Согласовано",
+                "rdDate": "07.07.2021",
+                "workGroup": "Железобетонные конструкции",
+                "workName": "Монтаж стропильных балок ОРК с 1 по 21 канаву",
+                "contractorCompany": "Актика",
+                "executorId": null,
+                "executorName": null,
+                "unit": "шт.",
+                "volumeTotal": 0,
+                "startDate": "01.01.2022",
+                "endDate": "28.02.2022",
+                "humanHourCost": 2,
+                "machineHourCost": 1.09,
+                "costER": 83107,
+                "volumeDonePlan": 4564611290,
+                "volumeDoneForecast": 5921,
+                "volumeDoneFact": 6912,
+                "humanHoursTotal": 0,
+                "humanHoursProgressTZ": null,
+                "humanHoursProgressPlan": 9129222580,
+                "humanHoursProgressForecast": 11842,
+                "humanHoursProgressFact": 13824,
+                "humanHoursProgressPercent": 0,
+                "machineHoursTotal": 0,
+                "costTotal": 0,
+                "costTotalProgress": null,
+                "costProgressPlan": 379351150478030,
+                "costProgressForecast": 492076547,
+                "costProgressFact": 574435584,
+                "costProgressPercent": 0,
+                "costRemaining": -574435584,
+                "year": 2022,
+                "month": 8,
+                "dailyCharts": [
+                  {
+                    "day": 1,
+                    "plan": 45645,
+                    "fact": 6456,
+                    "forecast": 5465
+                  },
+                  {
+                    "day": 2,
+                    "plan": 4564565645,
+                    "fact": 456,
+                    "forecast": 456
+                  },
+                  {
+                    "day": 3,
+                    "plan": 645646,
+                    "fact": 6546545656,
+                    "forecast": 5465464
+                  },
+                  {
+                    "day": 4,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 5,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 6,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 7,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 8,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 9,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 10,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 11,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 12,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 13,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 14,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 15,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 16,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 17,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 18,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 19,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 20,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 21,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 22,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 23,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 24,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 25,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 26,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 27,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 28,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 29,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 30,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 31,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  }
+                ]
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "payload": {
+            "id": 22542,
+            "id_parent": 22537,
+            "level": 2,
+            "code": "50-L1_3-L2_1",
+            "objTitle": "6822-004",
+            "objName": "ОРК с 1 по 21 канавы ",
+            "rdCode": "6822-004-КМ",
+            "rdStatus": "Согласовано",
+            "rdDate": "09.07.2021",
+            "workGroup": "Металлические конструкции",
+            "workName": "Монтаж м/конструкций",
+            "contractorCompany": null,
+            "executorId": null,
+            "executorName": null,
+            "unit": null,
+            "volumeTotal": null,
+            "startDate": "01.01.2022",
+            "endDate": "30.06.2022",
+            "humanHourCost": null,
+            "machineHourCost": null,
+            "costER": null,
+            "volumeDonePlan": null,
+            "volumeDoneForecast": null,
+            "volumeDoneFact": null,
+            "humanHoursTotal": 0,
+            "humanHoursProgressTZ": null,
+            "humanHoursProgressPlan": 102481259.4,
+            "humanHoursProgressForecast": 156093.68,
+            "humanHoursProgressFact": 858526.54,
+            "humanHoursProgressPercent": 0.84,
+            "machineHoursTotal": 0,
+            "costTotal": 0,
+            "costTotalProgress": null,
+            "costProgressPlan": 4268532638623.5,
+            "costProgressForecast": 6501588404.2,
+            "costProgressFact": 35759206888.85,
+            "costProgressPercent": 0.84,
+            "costRemaining": -35759206888.85,
+            "year": 2022,
+            "month": 8,
+            "dailyCharts": [
+              {
+                "day": 1,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 2,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 3,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 4,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 5,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 6,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 7,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 8,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 9,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 10,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 11,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 12,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 13,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 14,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 15,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 16,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 17,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 18,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 19,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 20,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 21,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 22,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 23,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 24,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 25,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 26,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 27,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 28,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 29,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 30,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 31,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              }
+            ]
+          },
+          "children": [
+            {
+              "payload": {
+                "id": 22548,
+                "id_parent": 22542,
+                "level": 3,
+                "code": "50-L1_3-L2_1-L3_1",
+                "objTitle": "6822-004",
+                "objName": "ОРК с 1 по 21 канавы ",
+                "rdCode": "6822-004-КМ",
+                "rdStatus": "Согласовано",
+                "rdDate": "10.07.2021",
+                "workGroup": "Металлические конструкции",
+                "workName": "Монтаж металлоконструкций ОРК с 1 по 21 канавы",
+                "contractorCompany": "ТСЗ",
+                "executorId": 418,
+                "executorName": "Reptile 5.O.",
+                "unit": "тн",
+                "volumeTotal": 0,
+                "startDate": "01.01.2022",
+                "endDate": "30.06.2022",
+                "humanHourCost": 2.26,
+                "machineHourCost": 1.09,
+                "costER": 94133.15,
+                "volumeDonePlan": 45345690,
+                "volumeDoneForecast": 69068,
+                "volumeDoneFact": 379879,
+                "humanHoursTotal": 0,
+                "humanHoursProgressTZ": null,
+                "humanHoursProgressPlan": 102481259.4,
+                "humanHoursProgressForecast": 156093.68,
+                "humanHoursProgressFact": 858526.54,
+                "humanHoursProgressPercent": 0.84,
+                "machineHoursTotal": 0,
+                "costTotal": 0,
+                "costTotalProgress": null,
+                "costProgressPlan": 4268532638623.5,
+                "costProgressForecast": 6501588404.2,
+                "costProgressFact": 35759206888.85,
+                "costProgressPercent": 0.84,
+                "costRemaining": -35759206888.85,
+                "year": 2022,
+                "month": 8,
+                "dailyCharts": [
+                  {
+                    "day": 1,
+                    "plan": 45345345,
+                    "fact": 345345,
+                    "forecast": 34534
+                  },
+                  {
+                    "day": 2,
+                    "plan": 345,
+                    "fact": 34534,
+                    "forecast": 34534
+                  },
+                  {
+                    "day": 3,
+                    "plan": 345,
+                    "fact": 534,
+                    "forecast": 34534
+                  },
+                  {
+                    "day": 4,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 5,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 6,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 7,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 8,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 9,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 10,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 11,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 12,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 13,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 14,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 15,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 16,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 17,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 18,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 19,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 20,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 21,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 22,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 23,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 24,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 25,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 26,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 27,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 28,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 29,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 30,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 31,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  }
+                ]
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "payload": {
+            "id": 22540,
+            "id_parent": 22537,
+            "level": 2,
+            "code": "50-L1_3-L2_1",
+            "objTitle": "6822-003",
+            "objName": "ОРК с 1 по 21 канавы ",
+            "rdCode": "6822-003-КЖ",
+            "rdStatus": "Согласовано",
+            "rdDate": "05.07.2021",
+            "workGroup": "Железобетонные конструкции",
+            "workName": "Устрйоство дренажа",
+            "contractorCompany": "ЦБИ",
+            "executorId": null,
+            "executorName": null,
+            "unit": "мп",
+            "volumeTotal": 0,
+            "startDate": "01.06.2022",
+            "endDate": "30.06.2022",
+            "humanHourCost": 47.76,
+            "machineHourCost": 1.09,
+            "costER": 19869,
+            "volumeDonePlan": 0,
+            "volumeDoneForecast": 0,
+            "volumeDoneFact": 0,
+            "humanHoursTotal": 0,
+            "humanHoursProgressTZ": null,
+            "humanHoursProgressPlan": 0,
+            "humanHoursProgressForecast": 0,
+            "humanHoursProgressFact": 0,
+            "humanHoursProgressPercent": null,
+            "machineHoursTotal": 0,
+            "costTotal": 0,
+            "costTotalProgress": null,
+            "costProgressPlan": 0,
+            "costProgressForecast": 0,
+            "costProgressFact": 0,
+            "costProgressPercent": null,
+            "costRemaining": 0,
+            "year": 2022,
+            "month": 8,
+            "dailyCharts": [
+              {
+                "day": 1,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 2,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 3,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 4,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 5,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 6,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 7,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 8,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 9,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 10,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 11,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 12,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 13,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 14,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 15,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 16,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 17,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 18,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 19,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 20,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 21,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 22,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 23,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 24,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 25,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 26,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 27,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 28,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 29,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 30,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 31,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              }
+            ]
+          },
+          "children": []
+        },
+        {
+          "payload": {
+            "id": 22539,
+            "id_parent": 22537,
+            "level": 2,
+            "code": "50-L1_3-L2_1",
+            "objTitle": "6822-004",
+            "objName": "ОРК с 1 по 21 канавы ",
+            "rdCode": "6822-004-КМ",
+            "rdStatus": "Согласовано",
+            "rdDate": "12.07.2021",
+            "workGroup": "Металлические конструкции",
+            "workName": "Монтаж профлиста кровли",
+            "contractorCompany": null,
+            "executorId": null,
+            "executorName": null,
+            "unit": null,
+            "volumeTotal": null,
+            "startDate": "01.10.2021",
+            "endDate": "31.01.2022",
+            "humanHourCost": null,
+            "machineHourCost": null,
+            "costER": null,
+            "volumeDonePlan": null,
+            "volumeDoneForecast": null,
+            "volumeDoneFact": null,
+            "humanHoursTotal": 0,
+            "humanHoursProgressTZ": null,
+            "humanHoursProgressPlan": 0,
+            "humanHoursProgressForecast": 0,
+            "humanHoursProgressFact": 0,
+            "humanHoursProgressPercent": null,
+            "machineHoursTotal": 0,
+            "costTotal": 0,
+            "costTotalProgress": null,
+            "costProgressPlan": 0,
+            "costProgressForecast": 0,
+            "costProgressFact": 0,
+            "costProgressPercent": null,
+            "costRemaining": 0,
+            "year": 2022,
+            "month": 8,
+            "dailyCharts": [
+              {
+                "day": 1,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 2,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 3,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 4,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 5,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 6,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 7,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 8,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 9,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 10,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 11,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 12,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 13,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 14,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 15,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 16,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 17,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 18,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 19,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 20,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 21,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 22,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 23,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 24,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 25,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 26,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 27,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 28,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 29,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 30,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 31,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              }
+            ]
+          },
+          "children": [
+            {
+              "payload": {
+                "id": 22547,
+                "id_parent": 22539,
+                "level": 3,
+                "code": "50-L1_3-L2_1-L3_1",
+                "objTitle": "6822-004",
+                "objName": "ОРК с 1 по 21 канавы ",
+                "rdCode": "6822-004-КМ",
+                "rdStatus": "Согласовано",
+                "rdDate": "13.07.2021",
+                "workGroup": "Металлические конструкции",
+                "workName": "Монтаж профлиста кровли ОРК с 1 по 21 канаву",
+                "contractorCompany": "ВК ВентАвангард",
+                "executorId": null,
+                "executorName": null,
+                "unit": "м2",
+                "volumeTotal": 0,
+                "startDate": "01.01.2022",
+                "endDate": "30.01.2022",
+                "humanHourCost": 1.54,
+                "machineHourCost": 1.09,
+                "costER": 642,
+                "volumeDonePlan": 0,
+                "volumeDoneForecast": 0,
+                "volumeDoneFact": 0,
+                "humanHoursTotal": 0,
+                "humanHoursProgressTZ": null,
+                "humanHoursProgressPlan": 0,
+                "humanHoursProgressForecast": 0,
+                "humanHoursProgressFact": 0,
+                "humanHoursProgressPercent": null,
+                "machineHoursTotal": 0,
+                "costTotal": 0,
+                "costTotalProgress": null,
+                "costProgressPlan": 0,
+                "costProgressForecast": 0,
+                "costProgressFact": 0,
+                "costProgressPercent": null,
+                "costRemaining": 0,
+                "year": 2022,
+                "month": 8,
+                "dailyCharts": [
+                  {
+                    "day": 1,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 2,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 3,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 4,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 5,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 6,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 7,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 8,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 9,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 10,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 11,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 12,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 13,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 14,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 15,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 16,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 17,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 18,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 19,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 20,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 21,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 22,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 23,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 24,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 25,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 26,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 27,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 28,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 29,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 30,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 31,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  }
+                ]
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "payload": {
+            "id": 22544,
+            "id_parent": 22537,
+            "level": 2,
+            "code": "50-L1_3-L2_2",
+            "objTitle": "6822-004",
+            "objName": "ОРК с 1 по 21 канавы ",
+            "rdCode": "6822-004-ОВ",
+            "rdStatus": "Согласовано",
+            "rdDate": "08.07.2021",
+            "workGroup": "Монтажные работы",
+            "workName": "Монтаж внутренних трубопроводов к узлу №3 и №5",
+            "contractorCompany": "ЛВК",
+            "executorId": null,
+            "executorName": null,
+            "unit": "мп",
+            "volumeTotal": 0,
+            "startDate": "01.06.2022",
+            "endDate": "31.07.2022",
+            "humanHourCost": 7.81,
+            "machineHourCost": 1.09,
+            "costER": 3248,
+            "volumeDonePlan": 0,
+            "volumeDoneForecast": 0,
+            "volumeDoneFact": 0,
+            "humanHoursTotal": 0,
+            "humanHoursProgressTZ": null,
+            "humanHoursProgressPlan": 0,
+            "humanHoursProgressForecast": 0,
+            "humanHoursProgressFact": 0,
+            "humanHoursProgressPercent": null,
+            "machineHoursTotal": 0,
+            "costTotal": 0,
+            "costTotalProgress": null,
+            "costProgressPlan": 0,
+            "costProgressForecast": 0,
+            "costProgressFact": 0,
+            "costProgressPercent": null,
+            "costRemaining": 0,
+            "year": 2022,
+            "month": 8,
+            "dailyCharts": [
+              {
+                "day": 1,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 2,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 3,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 4,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 5,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 6,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 7,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 8,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 9,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 10,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 11,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 12,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 13,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 14,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 15,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 16,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 17,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 18,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 19,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 20,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 21,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 22,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 23,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 24,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 25,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 26,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 27,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 28,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 29,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 30,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 31,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              }
+            ]
+          },
+          "children": []
+        },
+        {
+          "payload": {
+            "id": 22543,
+            "id_parent": 22537,
+            "level": 2,
+            "code": "50-L1_3-L2_2",
+            "objTitle": "6822-004",
+            "objName": "ОРК с 1 по 21 канавы ",
+            "rdCode": "6822-004-КЖ",
+            "rdStatus": "Согласовано",
+            "rdDate": "20.07.2021",
+            "workGroup": "Железобетонные конструкции",
+            "workName": "Устройство монолитных ж/б смотровых канав ОРК с 1 по 21 канаву",
+            "contractorCompany": null,
+            "executorId": null,
+            "executorName": null,
+            "unit": null,
+            "volumeTotal": null,
+            "startDate": "01.01.2022",
+            "endDate": "30.06.2022",
+            "humanHourCost": null,
+            "machineHourCost": null,
+            "costER": null,
+            "volumeDonePlan": null,
+            "volumeDoneForecast": null,
+            "volumeDoneFact": null,
+            "humanHoursTotal": 0,
+            "humanHoursProgressTZ": null,
+            "humanHoursProgressPlan": 115833719.65,
+            "humanHoursProgressForecast": 7483600.08,
+            "humanHoursProgressFact": 7096.65,
+            "humanHoursProgressPercent": 0.01,
+            "machineHoursTotal": 0,
+            "costTotal": 0,
+            "costTotalProgress": null,
+            "costProgressPlan": 48191761131.49,
+            "costProgressForecast": 3113496385.62,
+            "costProgressFact": 2952510,
+            "costProgressPercent": 0.01,
+            "costRemaining": -2952510,
+            "year": 2022,
+            "month": 8,
+            "dailyCharts": [
+              {
+                "day": 1,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 2,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 3,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 4,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 5,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 6,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 7,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 8,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 9,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 10,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 11,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 12,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 13,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 14,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 15,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 16,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 17,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 18,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 19,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 20,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 21,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 22,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 23,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 24,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 25,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 26,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 27,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 28,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 29,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 30,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 31,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              }
+            ]
+          },
+          "children": [
+            {
+              "payload": {
+                "id": 22549,
+                "id_parent": 22543,
+                "level": 3,
+                "code": "50-L1_3-L2_2-L3_1",
+                "objTitle": "6822-004",
+                "objName": "ОРК с 1 по 21 канавы ",
+                "rdCode": "6822-004-КЖ",
+                "rdStatus": "Согласовано",
+                "rdDate": "22.07.2021",
+                "workGroup": "Железобетонные конструкции",
+                "workName": "Устройство бетонной подготовки",
+                "contractorCompany": "ТСЗ",
+                "executorId": null,
+                "executorName": null,
+                "unit": "м3",
+                "volumeTotal": 0,
+                "startDate": "01.02.2022",
+                "endDate": "31.05.2022",
+                "humanHourCost": 11,
+                "machineHourCost": 1.09,
+                "costER": 4576.43,
+                "volumeDonePlan": 534543,
+                "volumeDoneForecast": 34534,
+                "volumeDoneFact": 0,
+                "humanHoursTotal": 0,
+                "humanHoursProgressTZ": null,
+                "humanHoursProgressPlan": 5879973,
+                "humanHoursProgressForecast": 379874,
+                "humanHoursProgressFact": 0,
+                "humanHoursProgressPercent": 0,
+                "machineHoursTotal": 0,
+                "costTotal": 0,
+                "costTotalProgress": null,
+                "costProgressPlan": 2446298621.49,
+                "costProgressForecast": 158042433.62,
+                "costProgressFact": 0,
+                "costProgressPercent": 0,
+                "costRemaining": 0,
+                "year": 2022,
+                "month": 8,
+                "dailyCharts": [
+                  {
+                    "day": 1,
+                    "plan": 534543,
+                    "fact": null,
+                    "forecast": 34534
+                  },
+                  {
+                    "day": 2,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 3,
+                    "plan": null,
+                    "fact": 34534,
+                    "forecast": null
+                  },
+                  {
+                    "day": 4,
+                    "plan": null,
+                    "fact": 345345,
+                    "forecast": null
+                  },
+                  {
+                    "day": 5,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 6,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 7,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 8,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 9,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 10,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 11,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 12,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 13,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 14,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 15,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 16,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 17,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 18,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 19,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 20,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 21,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 22,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 23,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 24,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 25,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 26,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 27,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 28,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 29,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 30,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 31,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  }
+                ]
+              },
+              "children": []
+            },
+            {
+              "payload": {
+                "id": 22550,
+                "id_parent": 22543,
+                "level": 3,
+                "code": "50-L1_3-L2_2-L3_1",
+                "objTitle": "6822-004",
+                "objName": "ОРК с 1 по 21 канавы ",
+                "rdCode": "6822-004-КЖ",
+                "rdStatus": "Согласовано",
+                "rdDate": "23.07.2021",
+                "workGroup": "Железобетонные конструкции",
+                "workName": "Устройство смотровых канав",
+                "contractorCompany": "ТСЗ",
+                "executorId": null,
+                "executorName": null,
+                "unit": "м3",
+                "volumeTotal": 0,
+                "startDate": "01.02.2022",
+                "endDate": "30.06.2022",
+                "humanHourCost": 20.57,
+                "machineHourCost": 1.09,
+                "costER": 8558,
+                "volumeDonePlan": 5345345,
+                "volumeDoneForecast": 345344,
+                "volumeDoneFact": 345,
+                "humanHoursTotal": 0,
+                "humanHoursProgressTZ": null,
+                "humanHoursProgressPlan": 109953746.65,
+                "humanHoursProgressForecast": 7103726.08,
+                "humanHoursProgressFact": 7096.65,
+                "humanHoursProgressPercent": 0.01,
+                "machineHoursTotal": 0,
+                "costTotal": 0,
+                "costTotalProgress": null,
+                "costProgressPlan": 45745462510,
+                "costProgressForecast": 2955453952,
+                "costProgressFact": 2952510,
+                "costProgressPercent": 0.01,
+                "costRemaining": -2952510,
+                "year": 2022,
+                "month": 8,
+                "dailyCharts": [
+                  {
+                    "day": 1,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 2,
+                    "plan": 5345345,
+                    "fact": 345,
+                    "forecast": 345344
+                  },
+                  {
+                    "day": 3,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 4,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 5,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 6,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 7,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 8,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 9,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 10,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 11,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 12,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 13,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 14,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 15,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 16,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 17,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 18,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 19,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 20,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 21,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 22,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 23,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 24,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 25,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 26,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 27,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 28,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 29,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 30,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 31,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  }
+                ]
+              },
+              "children": []
+            },
+            {
+              "payload": {
+                "id": 22551,
+                "id_parent": 22543,
+                "level": 3,
+                "code": "50-L1_3-L2_2-L3_1",
+                "objTitle": "6822-004",
+                "objName": "ОРК с 1 по 21 канавы ",
+                "rdCode": "6822-004-КЖ",
+                "rdStatus": "Согласовано",
+                "rdDate": "21.07.2021",
+                "workGroup": "Железобетонные конструкции",
+                "workName": "Уплотнение грунта и устройство гидроизоляции",
+                "contractorCompany": "ТСЗ",
+                "executorId": null,
+                "executorName": null,
+                "unit": "м2",
+                "volumeTotal": 0,
+                "startDate": "01.01.2022",
+                "endDate": "31.05.2022",
+                "humanHourCost": 1.32,
+                "machineHourCost": 1.09,
+                "costER": 549,
+                "volumeDonePlan": 0,
+                "volumeDoneForecast": 0,
+                "volumeDoneFact": 0,
+                "humanHoursTotal": 0,
+                "humanHoursProgressTZ": null,
+                "humanHoursProgressPlan": 0,
+                "humanHoursProgressForecast": 0,
+                "humanHoursProgressFact": 0,
+                "humanHoursProgressPercent": null,
+                "machineHoursTotal": 0,
+                "costTotal": 0,
+                "costTotalProgress": null,
+                "costProgressPlan": 0,
+                "costProgressForecast": 0,
+                "costProgressFact": 0,
+                "costProgressPercent": null,
+                "costRemaining": 0,
+                "year": 2022,
+                "month": 8,
+                "dailyCharts": [
+                  {
+                    "day": 1,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 2,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 3,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 4,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 5,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 6,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 7,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 8,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 9,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 10,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 11,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 12,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 13,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 14,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 15,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 16,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 17,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 18,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 19,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 20,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 21,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 22,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 23,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 24,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 25,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 26,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 27,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 28,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 29,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 30,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 31,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  }
+                ]
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "payload": {
+            "id": 22545,
+            "id_parent": 22537,
+            "level": 2,
+            "code": "50-L1_3-L2_2",
+            "objTitle": "6822-004",
+            "objName": "ОРК с 1 по 21 канавы ",
+            "rdCode": "6822-004-КМ",
+            "rdStatus": "Согласовано",
+            "rdDate": "14.07.2021",
+            "workGroup": "Металлические конструкции",
+            "workName": "Огнезащита м/к ОРК 1-21",
+            "contractorCompany": null,
+            "executorId": null,
+            "executorName": null,
+            "unit": null,
+            "volumeTotal": null,
+            "startDate": "01.10.2021",
+            "endDate": "30.06.2022",
+            "humanHourCost": null,
+            "machineHourCost": null,
+            "costER": null,
+            "volumeDonePlan": null,
+            "volumeDoneForecast": null,
+            "volumeDoneFact": null,
+            "humanHoursTotal": 0,
+            "humanHoursProgressTZ": null,
+            "humanHoursProgressPlan": 0,
+            "humanHoursProgressForecast": 0,
+            "humanHoursProgressFact": 0,
+            "humanHoursProgressPercent": null,
+            "machineHoursTotal": 0,
+            "costTotal": 0,
+            "costTotalProgress": null,
+            "costProgressPlan": 0,
+            "costProgressForecast": 0,
+            "costProgressFact": 0,
+            "costProgressPercent": null,
+            "costRemaining": 0,
+            "year": 2022,
+            "month": 8,
+            "dailyCharts": [
+              {
+                "day": 1,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 2,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 3,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 4,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 5,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 6,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 7,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 8,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 9,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 10,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 11,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 12,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 13,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 14,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 15,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 16,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 17,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 18,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 19,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 20,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 21,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 22,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 23,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 24,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 25,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 26,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 27,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 28,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 29,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 30,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              },
+              {
+                "day": 31,
+                "plan": null,
+                "fact": null,
+                "forecast": null
+              }
+            ]
+          },
+          "children": [
+            {
+              "payload": {
+                "id": 22553,
+                "id_parent": 22545,
+                "level": 3,
+                "code": "50-L1_3-L2_2-L3_1",
+                "objTitle": "6822-004",
+                "objName": "ОРК с 1 по 21 канавы ",
+                "rdCode": "6822-004-КМ",
+                "rdStatus": "Согласовано",
+                "rdDate": "16.07.2021",
+                "workGroup": "Металлические конструкции",
+                "workName": "Окрашивание поверхности МК",
+                "contractorCompany": "СМУ-28",
+                "executorId": null,
+                "executorName": null,
+                "unit": "м2",
+                "volumeTotal": 0,
+                "startDate": "01.01.2022",
+                "endDate": "30.03.2022",
+                "humanHourCost": 0.13,
+                "machineHourCost": 1.09,
+                "costER": 56,
+                "volumeDonePlan": 0,
+                "volumeDoneForecast": 0,
+                "volumeDoneFact": 0,
+                "humanHoursTotal": 0,
+                "humanHoursProgressTZ": null,
+                "humanHoursProgressPlan": 0,
+                "humanHoursProgressForecast": 0,
+                "humanHoursProgressFact": 0,
+                "humanHoursProgressPercent": null,
+                "machineHoursTotal": 0,
+                "costTotal": 0,
+                "costTotalProgress": null,
+                "costProgressPlan": 0,
+                "costProgressForecast": 0,
+                "costProgressFact": 0,
+                "costProgressPercent": null,
+                "costRemaining": 0,
+                "year": 2022,
+                "month": 8,
+                "dailyCharts": [
+                  {
+                    "day": 1,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 2,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 3,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 4,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 5,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 6,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 7,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 8,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 9,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 10,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 11,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 12,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 13,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 14,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 15,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 16,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 17,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 18,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 19,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 20,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 21,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 22,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 23,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 24,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 25,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 26,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 27,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 28,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 29,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 30,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 31,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  }
+                ]
+              },
+              "children": []
+            },
+            {
+              "payload": {
+                "id": 22556,
+                "id_parent": 22545,
+                "level": 3,
+                "code": "50-L1_3-L2_2-L3_1",
+                "objTitle": "6822-004",
+                "objName": "ОРК с 1 по 21 канавы ",
+                "rdCode": "6822-004-КМ",
+                "rdStatus": "Согласовано",
+                "rdDate": "18.07.2021",
+                "workGroup": "Металлические конструкции",
+                "workName": "Огнезащитное покрыие R60",
+                "contractorCompany": "СМУ-28",
+                "executorId": null,
+                "executorName": null,
+                "unit": "м2",
+                "volumeTotal": 0,
+                "startDate": "01.03.2022",
+                "endDate": "30.03.2022",
+                "humanHourCost": 3.41,
+                "machineHourCost": 1.09,
+                "costER": 1418.98,
+                "volumeDonePlan": 0,
+                "volumeDoneForecast": 0,
+                "volumeDoneFact": 0,
+                "humanHoursTotal": 0,
+                "humanHoursProgressTZ": null,
+                "humanHoursProgressPlan": 0,
+                "humanHoursProgressForecast": 0,
+                "humanHoursProgressFact": 0,
+                "humanHoursProgressPercent": null,
+                "machineHoursTotal": 0,
+                "costTotal": 0,
+                "costTotalProgress": null,
+                "costProgressPlan": 0,
+                "costProgressForecast": 0,
+                "costProgressFact": 0,
+                "costProgressPercent": null,
+                "costRemaining": 0,
+                "year": 2022,
+                "month": 8,
+                "dailyCharts": [
+                  {
+                    "day": 1,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 2,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 3,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 4,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 5,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 6,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 7,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 8,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 9,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 10,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 11,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 12,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 13,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 14,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 15,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 16,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 17,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 18,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 19,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 20,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 21,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 22,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 23,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 24,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 25,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 26,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 27,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 28,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 29,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 30,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 31,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  }
+                ]
+              },
+              "children": []
+            },
+            {
+              "payload": {
+                "id": 22552,
+                "id_parent": 22545,
+                "level": 3,
+                "code": "50-L1_3-L2_2-L3_1",
+                "objTitle": "6822-004",
+                "objName": "ОРК с 1 по 21 канавы ",
+                "rdCode": "6822-004-КМ",
+                "rdStatus": "Согласовано",
+                "rdDate": "15.07.2021",
+                "workGroup": "Металлические конструкции",
+                "workName": "Огрунтовка поверхности МК",
+                "contractorCompany": "контрактация",
+                "executorId": null,
+                "executorName": null,
+                "unit": "м2",
+                "volumeTotal": 0,
+                "startDate": "01.01.2022",
+                "endDate": "28.02.2022",
+                "humanHourCost": 0.08,
+                "machineHourCost": 1.09,
+                "costER": 31,
+                "volumeDonePlan": 0,
+                "volumeDoneForecast": 0,
+                "volumeDoneFact": 0,
+                "humanHoursTotal": 0,
+                "humanHoursProgressTZ": null,
+                "humanHoursProgressPlan": 0,
+                "humanHoursProgressForecast": 0,
+                "humanHoursProgressFact": 0,
+                "humanHoursProgressPercent": null,
+                "machineHoursTotal": 0,
+                "costTotal": 0,
+                "costTotalProgress": null,
+                "costProgressPlan": 0,
+                "costProgressForecast": 0,
+                "costProgressFact": 0,
+                "costProgressPercent": null,
+                "costRemaining": 0,
+                "year": 2022,
+                "month": 8,
+                "dailyCharts": [
+                  {
+                    "day": 1,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 2,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 3,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 4,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 5,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 6,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 7,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 8,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 9,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 10,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 11,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 12,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 13,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 14,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 15,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 16,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 17,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 18,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 19,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 20,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 21,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 22,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 23,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 24,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 25,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 26,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 27,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 28,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 29,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 30,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 31,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  }
+                ]
+              },
+              "children": []
+            },
+            {
+              "payload": {
+                "id": 22554,
+                "id_parent": 22545,
+                "level": 3,
+                "code": "50-L1_3-L2_2-L3_1",
+                "objTitle": "6822-004",
+                "objName": "ОРК с 1 по 21 канавы ",
+                "rdCode": "6822-004-КМ",
+                "rdStatus": "Согласовано",
+                "rdDate": "17.07.2021",
+                "workGroup": "Металлические конструкции",
+                "workName": "Огнезащитное покрыие R90",
+                "contractorCompany": "СМУ-28",
+                "executorId": null,
+                "executorName": null,
+                "unit": "м2",
+                "volumeTotal": 0,
+                "startDate": "01.01.2022",
+                "endDate": "30.03.2022",
+                "humanHourCost": 5.98,
+                "machineHourCost": 1.09,
+                "costER": 2486,
+                "volumeDonePlan": 0,
+                "volumeDoneForecast": 0,
+                "volumeDoneFact": 0,
+                "humanHoursTotal": 0,
+                "humanHoursProgressTZ": null,
+                "humanHoursProgressPlan": 0,
+                "humanHoursProgressForecast": 0,
+                "humanHoursProgressFact": 0,
+                "humanHoursProgressPercent": null,
+                "machineHoursTotal": 0,
+                "costTotal": 0,
+                "costTotalProgress": null,
+                "costProgressPlan": 0,
+                "costProgressForecast": 0,
+                "costProgressFact": 0,
+                "costProgressPercent": null,
+                "costRemaining": 0,
+                "year": 2022,
+                "month": 8,
+                "dailyCharts": [
+                  {
+                    "day": 1,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 2,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 3,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 4,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 5,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 6,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 7,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 8,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 9,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 10,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 11,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 12,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 13,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 14,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 15,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 16,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 17,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 18,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 19,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 20,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 21,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 22,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 23,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 24,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 25,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 26,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 27,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 28,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 29,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 30,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 31,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  }
+                ]
+              },
+              "children": []
+            },
+            {
+              "payload": {
+                "id": 22555,
+                "id_parent": 22545,
+                "level": 3,
+                "code": "50-L1_3-L2_2-L3_1",
+                "objTitle": "6822-004",
+                "objName": "ОРК с 1 по 21 канавы ",
+                "rdCode": "6822-004-КМ",
+                "rdStatus": "Согласовано",
+                "rdDate": "19.07.2021",
+                "workGroup": "Металлические конструкции",
+                "workName": "Огнезащитное покрыие R15",
+                "contractorCompany": "контрактация",
+                "executorId": null,
+                "executorName": null,
+                "unit": "м2",
+                "volumeTotal": 0,
+                "startDate": "01.06.2022",
+                "endDate": "30.06.2022",
+                "humanHourCost": 1.08,
+                "machineHourCost": 1.09,
+                "costER": 451,
+                "volumeDonePlan": 0,
+                "volumeDoneForecast": 0,
+                "volumeDoneFact": 0,
+                "humanHoursTotal": 0,
+                "humanHoursProgressTZ": null,
+                "humanHoursProgressPlan": 0,
+                "humanHoursProgressForecast": 0,
+                "humanHoursProgressFact": 0,
+                "humanHoursProgressPercent": null,
+                "machineHoursTotal": 0,
+                "costTotal": 0,
+                "costTotalProgress": null,
+                "costProgressPlan": 0,
+                "costProgressForecast": 0,
+                "costProgressFact": 0,
+                "costProgressPercent": null,
+                "costRemaining": 0,
+                "year": 2022,
+                "month": 8,
+                "dailyCharts": [
+                  {
+                    "day": 1,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 2,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 3,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 4,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 5,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 6,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 7,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 8,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 9,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 10,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 11,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 12,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 13,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 14,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 15,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 16,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 17,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 18,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 19,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 20,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 21,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 22,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 23,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 24,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 25,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 26,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 27,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 28,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 29,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 30,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  },
+                  {
+                    "day": 31,
+                    "plan": null,
+                    "fact": null,
+                    "forecast": null
+                  }
+                ]
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
